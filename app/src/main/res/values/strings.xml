@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foodchk</string>
+    <string name="nazwa" />
+    <string name="search_hint">szukaj</string>
+    <string name="wyszukiwarka_tytul">tytuł</string>
+    <string name="low_storage_error">mało miejsca</string>
+    <string name="no_camera_permission">brak zgody na używanie kamery</string>
+    <string name="ok">ok</string>
+</resources>
