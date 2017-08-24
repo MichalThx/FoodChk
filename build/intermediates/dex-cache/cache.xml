@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_22dc6deb069b6e370a2d9f1ea4771f84c6c78960\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ca4e02879acc9c3e1a78adae60337e06579f27c4">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d7d98df7b28612d38cfd40c9e8c681bbaf2380ca\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b53d61bae49278c0fa202d9066d2e72fc151c1e8">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.2.0_0c67a98005f626232180d5fe3e00ee553c100517\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_cfc600585f0e2f50c1ea8aee126f8aba13105c47\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.0_fb56cac387f4a998bb83a730a458bcfb37f78b82\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7428f0d1debdcf1b5792a26146e51a38d992d04d">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.2.0_b8616fc734b73d80e2c046bcf3ce666609ad734e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.0_901af2d51daf781bf94446129b792b59af73619d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7378806b630886994099d03c369983f2848a609f">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.2.0_f195232d6e7b9661f2af3a7d5e5e03be437119fc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="33b5900f82d19fd3dacee518363b249ace77b8f5">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.2.0_711e9939c0c3b30e4e7fb81bc7d0df50c04ffa12\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_de570712e04d39bf33762e2d9e9bb6c3cdfcc383\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5acfd484717d9175c175569a114d46dbeec074ed">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.2.0_e303a84b9f161e44d22923f0f71fa11e31763c7e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fbb50f7f89342c915898c9376a67229e2fcee286">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.2.0_61784b280bdcc3d97525e90b26f31a960174d317\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8ad1b5663f367dac619256d75fb08a98c7baa4f4">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.2.0_2a994ffd216fc476d138c6ed044fbb54e6f18c22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e3f200938bb888d83c2da807cb6aee983baae254">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.2.0_78fd1105ed50cca977782adfa793a5511be88e8d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="74694bf98bd1f856cf478bd0c516531801badced">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.2.0_79afe2d89977fb8cbcfb67f3ce079047369a6d6c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="535d4497b5fa5d451e07a043e9e220d5c25ab7c7">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.2.0_1b9868a50d5dab5a4b59c92f4b138a63cbad5825\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="08cdd337d1d9247eb915f0ab365624dd7966e7fa">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.2.0_cf0b7337c58ec6027c902919e42a5f823e01071a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.2.0_ad09801be8d3509a76e7b18ac502ed45cb424ddd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="be009dbe07b3a252c8cda07fc948ac713d2f5171">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.2.0_3a3b2315e60ffb1ae6ce9803ad3f5bb9e47f978b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8ec9ae00d45e758ac5b7a1c5dc0daa8a4b24280f">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.2.0_8516e25b5c7f5e1c4d2dbd67db1562984d146c99\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="811202a9098047576814fc2171b56b83b537a8b9">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.2.0_06621351902521f00e61c421e5b286282108ddfe\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.0_d3a42197e13c5254d83c7dc07b3ac031015194dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_a68231e0dd8076198bc9035cd6543ed9845fa87a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a03f4d605b0f29222c2ddf8b7896258cb4b92def">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.2.0_1cce308fd9aa056a2d180c9a31a387e4983a8bf0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="299e04800d1169b9f3dd04c376c7b266a3594cca">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.2.0_71e9537e6e71b796f6f8c9c7288cfa2d62ecad15\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.0_315b6687094b112b5f6d372b7babb126c6029332\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a0712565a784bedd07ada2393c95e0b1e288840f">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.2.0_8b04d8e3f008200e176d134110008f5c640c843c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.0_0789d1c3bc42a93ca653d96c851655581f5c13f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="163b095362fd14d682ac311bf672c2fb54de5078">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.2.0_4fc1168e43bb9136de40a1134e8cb318bc945136\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="39261f58509b1a379df041f03da394c29da05395">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.2.0_369f41bf75a53f84c3577e81a112b0eb749caa98\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ce9432b50a02be101bc491a1b38d3904200bd988">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.2.0_2cacf9570cfe729830272ad971349325199a2a82\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.0_3c14a4ec4b1e641c4b95254a5895d0f1b29431da\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="774eb2cb63694e68ceb2404d68c28d4a1eab5ce3">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_30e2cc47bf0df68e69884fa579659114ad120e30\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1dc44c4798cbd79e95e4838a3fdc734c0e3f895f">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.2.0_98c0606911c89f42a423797c4f55266a1f4576fb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7c7c21cc7a45d5c2a57d77f4840d4d4ea3c7604f">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.2.0_7fa546d63c16dbda3ee83ce6d72016e19c2d9589\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_2e0e71434c98fe90ef6a5df514bd93046991d6ac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.2.0_9d3b7bf0738cc5207e7234351b8b918058ad8616\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.0_534c2160c2b938b6be2e9303262d3f68b1ee933c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_e6fc1df2c26dbae872da609deda3f7a7c76a619a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.0_ddfbd83df06a7db40ac459343c3d150d535831e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.0_6bebc831b02a9bd6aee6c65a647c79a45b9e9639\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a06eb7761fca120bbb46b34b930a3a3462ba9d7f">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.2.0_c5c9a9db7775ebfaf5a1a9e5e179b2b63282bad6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7c39a4b431976abc46d3cf6344c75d06c769cd35">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.2.0_0133ae0c927a484a4330a850abb336f5da0fc4be\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.2.0_9a060e8f88ec45e65b4dd36c238bea91f23cc8c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.2.0_e13e781f0fc162ad63e1067576ec06bd7fa9bcc5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.0_3714d995929f3f9bf8716cc2c0a66710ee142d6f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.2.0_6873b846f245eaff5bd8c17aef982377053e933b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="982031d2aa9652bc955d0b581ec70378c0adfc56">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.2.0_8639468cfe738d54eec7be1eb4f5576ec640822b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="18e52280643effbab30370b073e456d670a0db54">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.2.0_9d4f5c598c66c8863148a41c0284a1764e243846\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_4efbb7649c2cbcc9919d23148aec53590cd8abf3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="404f4108b41050173f93836f5b35efdd9525a0ad">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.2.0_cb8429c78e1776c15f41e439e41f2db721deacec\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.0_8bfd1275b59f1a4ac8a3df5cc0f73045f4a4a46a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.2.0_9db0a4ee7ba708e00d30b797e3fa41b73cbdec5e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="dd7b4a8e01cafa79a0b228b2ee5bd57ae5577444">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.2.0_7da08a8dc6e249ee6c72730f6483dc94448ab706\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.0_4326faf1bc0189b50995f515e9537aeb1971e3f1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c8fcebabb73df25937704f5566bf6c388ea941d">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.2.0_4352afbc258abef86f25c8820d3cc028e401795f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_abeba60cf6ab371ada3fe6bd783aadb5fcb90345\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e91e1f335dc418d0138991a1d5155f0490ab6082">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.2.0_299279933af723d33a546852f4801ddb078b986e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\MS\Desktop\Foodchk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_9cf19fd8c8d8d122fa904f2747721ad326ae4181\classes.dex" />
+    </item>
+
+</items>
